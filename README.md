@@ -1,3 +1,4 @@
+![logo](https://github.com/prakharsinghrana23/prakharsinghrana23/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.jpg)
 <h3 align="center">A passionate website developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://i.redd.it/n8agw6z2smyb1.gif">
 
